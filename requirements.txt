@@ -4,6 +4,7 @@
 appnope=0.1.0=py37_0
 arviz=0.7.0=py_0
 backcall=0.1.0=py37_0
+blas=1.0=openblas
 bzip2=1.0.8=h0b31af3_2
 ca-certificates=2020.1.1=0
 cctools=895=1
@@ -26,6 +27,7 @@ ipykernel=5.1.4=py37h39e3cac_0
 ipython=7.13.0=py37h5ca1d4c_0
 ipython_genutils=0.2.0=py37_0
 jedi=0.16.0=py37_1
+joblib=0.14.1=py_0
 jpeg=9c=h1de35cc_1001
 jupyter_client=6.1.2=py_0
 jupyter_core=4.6.3=py37_0
@@ -49,6 +51,7 @@ libsodium=1.0.16=h3efe00b_0
 libssh2=1.8.2=hcdc9a53_2
 llvm=4.0.1=1
 llvm-lto-tapi=4.0.1=1
+llvm-openmp=4.0.1=hcfea43d_1
 mako=1.1.0=py_0
 markupsafe=1.1.1=py37h9bfed18_1
 matplotlib-base=3.1.1=py37h3a684a6_1
@@ -76,6 +79,7 @@ python_abi=3.7=1_cp37m
 pytz=2019.3=py_0
 pyzmq=18.1.1=py37h0a44026_0
 readline=8.0=h1de35cc_0
+scikit-learn=0.22.1=py37hebd9d1a_0
 scipy=1.3.1=py37hab3da7d_2
 setuptools=46.1.3=py37_0
 six=1.14.0=py_1
